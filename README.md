@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center">I'm Ian Ferreira</h1>
 
-<!--
-**ianfg93/ianfg93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full stack developer passionate about technology and innovation.
 
-Here are some ideas to get you started:
+- 👨‍💻 Checkout my [Linkedin](https://www.linkedin.com/in/ianfg93/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ianfg93&show_icons=true" height="200" alt="ianfg93"/>
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianfg93&layout=compact" height="200" alt="ianfg93"/>
+  
+
+  
+</p>
