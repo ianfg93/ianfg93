@@ -3,6 +3,7 @@
 I'm a full stack developer passionate about technology and innovation.
 
 - 👨‍💻 Checkout my [Linkedin](https://www.linkedin.com/in/ianfg93/)
+- 📧 Contact by email **ian_ferreira93@hotmail.com**
 
 
 
